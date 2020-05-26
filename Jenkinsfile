@@ -6,7 +6,7 @@ checkout scm
 }
 stage('Build image') {
 /* This builds the actual image */
-app = docker.build("adigu13/ComplaintPortal")
+app = docker.build("adigu13/complaintportal")
 }
 stage('Test image') {
 app.inside {
