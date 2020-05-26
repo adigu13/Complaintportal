@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ComplaintPortal4Application<ComplaintPortal4>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.namanraj.demo.ComplaintPortal4Application",
+            "projectName": "ComplaintPortal4",
+            "args": ""
+        }
+    ]
+}
